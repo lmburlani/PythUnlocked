@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O PythUnlocked é um script em Python que desbloqueia arquivos PDF protegidos por senha. Ele foi desenvolvido por necessidade quando o autor precisou remover a senha de 190 arquivos PDF, mas não estava com seu PC pessoal. Assim, foi criada esta solução utilizando o Google Colab.
+O PythUnlocked é um script em Python que desbloqueia arquivos PDF protegidos por senha. Ele foi desenvolvido por necessidade quando precisei remover a senha de 190 arquivos PDF, mas não estava com seu PC pessoal. Assim, foi criada esta solução utilizando o Google Colab.
 
 ## Como usar
 
