@@ -23,6 +23,3 @@ Para usar o PythUnlocked, é necessário ter uma conta no Google e acesso ao Goo
 
 O PythUnlocked só é capaz de desbloquear arquivos PDF protegidos por senha. Outros tipos de proteção, como restrições de cópia e impressão, não são removidos pelo script.
 
-## Licença
-
-O PythUnlocked é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
